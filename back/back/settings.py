@@ -35,8 +35,6 @@ CHANNEL_LAYERS = {
     }
 }
 
-print(CHANNEL_LAYERS)
-
 
 INSTALLED_APPS = [
     'daphne',
